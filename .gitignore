@@ -1,0 +1,4 @@
+/.dockerignore
+/sample.mp4
+/venv
+/yolov8n.pt
